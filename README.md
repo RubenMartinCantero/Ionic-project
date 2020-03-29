@@ -63,6 +63,8 @@ Cosas a incluir
 	Estructura del projyecto (que hacer, como hacerlo)
 	Reglas de lintado de codigo
 	Reglas de otro tipo
+	Actualizar github para poner pullrequest o bloquear master/develop a la hora de hacer push-merge (si no sabemos, 
+investigar como se hace o dejarlo así, como veamos)
 
 	
 
