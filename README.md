@@ -28,7 +28,7 @@ Arrancar ionic una vez instalado todo:
 
 
 
-Estructura del proyecto.
+Reglas del proyecto.
 	
 	Rama develop tiene la configuración inicial, de la cual divergen ramas según se desarrolle el proyecto.
 Cada rama nueva estará enlazada con una funcionalidad nueva a incluir en la app, una vez esa funcionalidad esté 
@@ -58,7 +58,13 @@ siguientes nombres:
 
 
 
+Cosas a incluir
+	Añadir reglas al proyecto
+	Estructura del projyecto (que hacer, como hacerlo)
+	Reglas de lintado de codigo
+	Reglas de otro tipo
 
+	
 
 
 
