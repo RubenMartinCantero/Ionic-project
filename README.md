@@ -5,6 +5,8 @@ Instalación previa necesaria:
 	
 	node.js
 	npm
+	angular
+	react
 
 Para instalar ionic: 
 
