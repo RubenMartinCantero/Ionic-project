@@ -31,7 +31,7 @@ export class AuthenticationService {
   }
 
   // Login in with email/password
-  SignIn(email, password) {
+  SignIn( email, password) {
     return this.ngFireAuth.auth.signInWithEmailAndPassword(email, password)
   }
 
